@@ -5,6 +5,6 @@ Utilizando más que nada JFrame.
 Utilizando la metodologia aplicada en este tutorial: https://www.youtube.com/watch?v=dfhmTyRTCSQ 
 
 
-![Image text] (https://github.com/robsanabria/calculadora-GUI/blob/master/calcu.png)
+![Image text](https://github.com/robsanabria/calculadora-GUI/blob/master/calcu.png)
 
 🐲☕🐲☕🐲☕🐲☕
